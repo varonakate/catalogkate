@@ -1,5 +1,5 @@
 ---
 title: TITLE
 description: description
-tags: HANA
+tags: HANA, HANA Cloud
 ---
