@@ -1,5 +1,5 @@
 ---
 title: TITLE
 description: description
-tags: tutorials:HANA
+tags: tutorials: HANA
 ---
