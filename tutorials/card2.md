@@ -38,13 +38,13 @@ ffffffffffffffffffffffffffffff
 
 ![Image](https://octodex.github.com/images/yaktocat.png)
 
-``javascript
+```javascript
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
   }
 }
-``
+```
 
 First Header | Second Header
 ------------ | -------------
