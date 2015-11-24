@@ -31,5 +31,5 @@ ffffffffffffffffffffffffffffff
 
 <http://tut.by>
 
-![Image](/путь/к/изображению.jpg)
+![Image](/1.jpg)
 
