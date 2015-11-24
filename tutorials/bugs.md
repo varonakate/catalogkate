@@ -1,5 +1,5 @@
 ---
-title: Bugs
+title: bugs
 description: elements with bugs
 tags: tutorial:product/sapHana
 ---
