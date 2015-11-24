@@ -1,7 +1,7 @@
 ---
 title: TITLE
 description: description
-tags: HANA, HANA Cloud, 1454
+tags: tutorial:product/hcp
 ---
 # 111fngkjdfhlgfdljgrfdg
 ## bndfklnbhklf
