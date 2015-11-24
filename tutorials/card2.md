@@ -29,3 +29,4 @@ ffffffffffffffffffffffffffffff
 [Primer] [id]:
 [id]: http://tut.by
 
+![Image](/путь/к/изображению.jpg)
