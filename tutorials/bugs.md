@@ -4,6 +4,8 @@ description: elements with bugs
 tags: tutorial:product/sapHana
 ---
 
+# Bugs
+
 > quote
 >> quote1
 
