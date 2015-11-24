@@ -1,7 +1,7 @@
 ---
 title: Nata
 description: new nata
-tags: tutorial:product/HANA
+tags: tutorial:product/hana
 ---
 # sssss dddddddddddddddd ffffffff
 *ggggggggggg*
