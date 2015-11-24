@@ -33,5 +33,5 @@ ffffffffffffffffffffffffffffff
 
 <address@example.com>
 
-![Image](/1.jpg)
+![Image](https://octodex.github.com/images/yaktocat.png)
 
