@@ -12,16 +12,23 @@ It's very easy to make some words **bold** and other words *italic* with ***Mark
 > citation
 >> citation1
 
-1. list1
-2. list2
- 
+Sometimes you want numbered lists:
 
-- item1
-- item2
+1. One
+2. Two
+3. Three
 
+Sometimes you want bullet points:
 
-+ one
-+ two
+* Start a line with a star
+* Profit!
+
+Alternatively,
+
+- Dashes work just as well
+- And if you have sub points, put two spaces before the dash or star:
+  - Like this
+  - And this
 
 dddddddddddddddddddddddddddddd
 ---
