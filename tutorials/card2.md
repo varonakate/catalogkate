@@ -4,8 +4,7 @@ description: new nata
 tags: tutorial:product/sapHana
 ---
 # sssss dddddddddddddddd ffffffff
-It's very easy to make some words **bold** and other words *italic* with Markdown.
-***ddddddddddddddddd***
+It's very easy to make some words **bold** and other words *italic* with ***Markdown***.
 
 * ffffffffffffff
 * fffffffffffffffffd
