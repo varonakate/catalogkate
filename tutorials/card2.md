@@ -12,6 +12,8 @@ It's very easy to make some words **bold** and other words *italic* with ***Mark
 > citation
 >> citation1
 
+> If you'd like to quote someone, use the > character before the line
+
 Sometimes you want numbered lists:
 
 1. One
