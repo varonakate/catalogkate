@@ -1,8 +1,7 @@
 ---
 title: Nata
 description: new nata
-tags: -tutorial:product/hana_studio
-      -tutorial:product/sapHana]
+tags: tutorial:product/hana_studio, tutorial:product/sapHana
 ---
 # sssss dddddddddddddddd ffffffff
 It's very easy to make some words **bold** and other words *italic* with ***Markdown***.
