@@ -1,5 +1,5 @@
 ---
-title: Nata page1 bug
+title1: Nata page1 bug
 description: new nata page
 tags: tutorial:product/sapHana
 ---
