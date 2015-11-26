@@ -1,5 +1,4 @@
 ---
-title1: Title
 description: description
 tags: tutorial:product/sapHana
 ---
