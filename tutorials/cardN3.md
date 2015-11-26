@@ -1,6 +1,6 @@
 ---
 title: new Natasha
-description: description from Nata
+description:
 tags: tutorial:product/sapHana
 ---
 
