@@ -1,7 +1,7 @@
 ---
 title: new Natasha
 description: description from Nata
-tags: tutorial:
+tags:
 ---
 
 # Bugs
