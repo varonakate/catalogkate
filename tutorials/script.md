@@ -1,6 +1,6 @@
 ---
-title: bugs
-description: elements with bugs
+title: script
+description: script
 tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
 ---
 
