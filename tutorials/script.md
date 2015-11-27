@@ -1,5 +1,8 @@
-
-
+---
+title: bugs
+description: elements with bugs
+tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
+---
 
 <script src="cufon-yui.js" type="text/javascript"></script>
 <script src="Frutiger_LT_Std_400.font.js" type="text/javascript"></script>
