@@ -1,7 +1,7 @@
 ---
-title:
+title: 121313
 description: elements with bugs
-tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
+tags: 
 ---
 
 Hello
