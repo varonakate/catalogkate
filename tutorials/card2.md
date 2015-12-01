@@ -25,6 +25,8 @@ Sometimes you want bullet points:
 * Start a line with a star
 * Profit!
 
+![Example](/img/cq5dam.thumbnail.319.319.png)
+
 Alternatively,
 
 - Dashes work just as well
