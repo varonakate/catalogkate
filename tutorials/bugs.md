@@ -1,7 +1,7 @@
 ---
 title: bugs
 description: elements with bugs
-tags: [tutorial:]
+tags: [tutorial:product/]
 ---
 
 # Bugs
