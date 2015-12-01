@@ -33,3 +33,9 @@ Content in the first column | Content in the second column
 - [ ] this is an incomplete item
 
 I think you should use an `<addr>` element here instead.
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
