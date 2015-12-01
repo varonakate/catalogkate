@@ -6,7 +6,7 @@ tags: [tutorial:product/hana_studio, tutorial:product/sapHana, uyuyguyu]
 # 111sssss dddddddddddddddd ffffffff
 It's very easy to make some words **bold** and other words *italic* with ***Markdown***.
 
-* ffffffffffffff
+* ffffffffffffff ![Example](/img/cq5dam.thumbnail.319.319.png)
 * fffffffffffffffffd
 
 > citation
