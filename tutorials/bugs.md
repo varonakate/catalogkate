@@ -10,8 +10,8 @@ tags: [tutorial:product/]
 >> quote1
 
 * item1
- * one_one
- * two
+    * one_one
+    * two
 
 ```javascript
 function fancyAlert(arg) {
