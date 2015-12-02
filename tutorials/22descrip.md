@@ -1,6 +1,6 @@
 ---
 title: 22descrip
-description:
-tags: tutorial:product/sapHana
+description: tutorial:product/sapHana
+tags: 
 ---
 desc is empty
