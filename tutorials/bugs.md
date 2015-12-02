@@ -9,9 +9,9 @@ tags: [tutorial:product/]
 > quote
 >> quote1
 
-- item1
- - one_one
- - two
+* item1
+ * one_one
+ * two
 
 ```javascript
 function fancyAlert(arg) {
