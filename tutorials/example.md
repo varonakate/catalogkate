@@ -33,7 +33,7 @@ Sometimes you want bullet points:
 * Start a line with a star
 * Profit!
 
-You can create nested lists:
+You can create nested lists: 
 
 * item1
     * one_one
