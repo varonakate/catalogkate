@@ -35,10 +35,9 @@ Sometimes you want bullet points:
 
 You can create nested lists:
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+* item1
+    * one_one
+    * two
 
 ***Blockquotes***
 
