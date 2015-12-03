@@ -39,7 +39,7 @@ You can create nested lists:
 * Item 2
    * Item 2a
    * Item 2b
-  
+
 ***Blockquotes***
 
   **Example:** 
@@ -92,6 +92,7 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
+and
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
