@@ -6,19 +6,19 @@ tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 
 You can use:
 
-Text (including bold, italic, etc)
+***Text*** (including bold, italic, etc)
 
   **Example:** 
 It's very easy to make some words **bold** and other words *italic* and ***bold italic*** with Markdown.
 
-Headers
+***Headers***
 
   **Example:** 
 # This is an h1 header
 ## This is an h2 header
 ###### This is an h6 header
 
-Lists
+***Lists***
 
   **Example:** 
   
@@ -27,22 +27,26 @@ Sometimes you want numbered lists:
 1. One
 2. Two
 3. Three
+
 Sometimes you want bullet points:
+
 * Start a line with a star
 * Profit!
+
 You can create nested lists:
+
 * Item 1
 * Item 2
   * Item 2a
   * Item 2b
   
-Blockquotes
+***Blockquotes***
 
   **Example:** 
 In the words of Abraham Lincoln:
 > Pardon my French
 
-Links
+***Links***
 
   **Example:** 
 [Primer] [id]:
@@ -50,15 +54,15 @@ Links
 <http://tut.by>
 <address@example.com>
 
-Images (all images are stored on GitHub, URLs are rewritten to absolute)
+***Images*** (all images are stored on GitHub, URLs are rewritten to absolute)
 
-Format: ![Alt Text](url)
+Format: `![Alt Text](url)`
 
   **Example:** 
 ![Image](https://octodex.github.com/images/yaktocat.png)
 ![Example](/img/cq5dam.thumbnail.319.319.png)
 
-Code blocks:
+***Code blocks:***
 
   **Example:** 
 ```javascript
@@ -68,7 +72,7 @@ function fancyAlert(arg) {
   }
 }
 ```
-Task Lists (Please note, this requires empty line before task list):
+***Task Lists*** (Please note, this requires empty line before task list):
 
   **Example:** 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
@@ -76,9 +80,10 @@ Task Lists (Please note, this requires empty line before task list):
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-Tables:
+***Tables:***
 
   **Example:** 
+
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
