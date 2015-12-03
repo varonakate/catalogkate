@@ -51,7 +51,9 @@ In the words of Abraham Lincoln:
   **Example:** 
 [Primer] [id]:
 [id]: http://tut.by
+
 <http://tut.by>
+
 <address@example.com>
 
 ***Images*** (all images are stored on GitHub, URLs are rewritten to absolute)
