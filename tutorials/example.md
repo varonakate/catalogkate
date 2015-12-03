@@ -37,8 +37,8 @@ You can create nested lists:
 
 * Item 1
 * Item 2
-  * Item 2a
-  * Item 2b
+   * Item 2a
+   * Item 2b
   
 ***Blockquotes***
 
@@ -77,6 +77,7 @@ function fancyAlert(arg) {
 ***Task Lists*** (Please note, this requires empty line before task list):
 
   **Example:** 
+  
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
@@ -90,6 +91,7 @@ First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
+
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
