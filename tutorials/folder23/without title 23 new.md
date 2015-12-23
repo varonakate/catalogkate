@@ -1,7 +1,7 @@
 ---
-title: 
+title: kkk
 description: without title 23 new
-tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
+tags:
 ---
 
 without title 23 new
