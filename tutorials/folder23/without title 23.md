@@ -1,5 +1,5 @@
 ---
-title: without title 23
+title: 
 description: without title 23
 tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
 ---
