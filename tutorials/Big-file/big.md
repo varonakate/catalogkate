@@ -59,7 +59,7 @@ All source code solutions and templates for all exercises in this document can b
 
 >Note must be displayed as a "blockquote" with red backgrounnd, example, [](http://go.sap.com/developer/tutorials/setup-hana-for-cloud.html).
 
-& nbsp;
+
 
 >### Caution
 >Both the Amazon AWS and Microsoft Azure accounts will charge you for time on those cloud systems.
