@@ -64,7 +64,7 @@ All source code solutions and templates for all exercises in this document can b
 >### Caution
 >Both the Amazon AWS and Microsoft Azure accounts will charge you for time on those cloud systems.
 
-& nbsp;
+& nbsp
 
 >### Note
 
