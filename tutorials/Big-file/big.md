@@ -18,12 +18,12 @@ Next steps is option, hence, may not be present.
 
 >Note must be displayed as a "blockquote" with red backgrounnd, example, [](http://go.sap.com/developer/tutorials/setup-hana-for-cloud.html).
 
-& nbsp;
+&nbsp;
 
 >### Caution
 >Both the Amazon AWS and Microsoft Azure accounts will charge you for time on those cloud systems.
 
-& nbsp;
+&nbsp;
 
 >### Note
 
