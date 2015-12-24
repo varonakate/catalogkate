@@ -11,6 +11,24 @@ tags: [tutorial:product/sapHana, tutorial:product/hana_studio, tutorial:technolo
 Next steps is option, hence, may not be present.
 [Hello World!](http://go-qa.sap.com/developer/tutorials/hana-web-development-workbench.html)
 
+>### Warning
+>Both the Amazon AWS and Microsoft Azure accounts will charge you for time on those cloud systems.
+
+>If you want to create a free developer account - with no cloud VM charges - on the HANA Cloud Platform, do not follow this tutorial.  Click here to sign up for the account, and then proceed to the next tutorial.
+
+>Note must be displayed as a "blockquote" with red backgrounnd, example, [](http://go.sap.com/developer/tutorials/setup-hana-for-cloud.html).
+
+& nbsp;
+
+>### Caution
+>Both the Amazon AWS and Microsoft Azure accounts will charge you for time on those cloud systems.
+
+& nbsp;
+
+>### Note
+
+>This is a note.
+
 ## Details
 
 ### You will learn  
@@ -58,10 +76,14 @@ All source code solutions and templates for all exercises in this document can b
 >If you want to create a free developer account - with no cloud VM charges - on the HANA Cloud Platform, do not follow this tutorial.  Click here to sign up for the account, and then proceed to the next tutorial.
 
 >Note must be displayed as a "blockquote" with red backgrounnd, example, [](http://go.sap.com/developer/tutorials/setup-hana-for-cloud.html).
+
 & nbsp;
+
 >### Caution
 >Both the Amazon AWS and Microsoft Azure accounts will charge you for time on those cloud systems.
+
 & nbsp;
+
 >### Note
 
 >This is a note.
