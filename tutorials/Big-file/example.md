@@ -62,9 +62,9 @@ In the words of Abraham Lincoln:
 >### Warning
 >Both the Amazon AWS and Microsoft Azure accounts will charge you for time on those cloud systems.
 
-> > Warning
+> >Warning
 
->If you want to create a free developer account - with no cloud VM charges - on the HANA Cloud Platform, do not follow this tutorial.  Click here to sign up for the account, and then proceed to the next tutorial.
+> >If you want to create a free developer account - with no cloud VM charges - on the HANA Cloud Platform, do not follow this tutorial.  Click here to sign up for the account, and then proceed to the next tutorial.
 
 &nbsp;
 
