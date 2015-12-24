@@ -57,6 +57,30 @@ In the words of Abraham Lincoln:
 
 <address@example.com>
 
+***There are three different types of messages: Note, Caution and Warning.***
+
+>### Warning
+>Both the Amazon AWS and Microsoft Azure accounts will charge you for time on those cloud systems.
+
+>If you want to create a free developer account - with no cloud VM charges - on the HANA Cloud Platform, do not follow this tutorial.  Click here to sign up for the account, and then proceed to the next tutorial.
+
+&nbsp;
+
+>### Caution
+>Both the Amazon AWS and Microsoft Azure accounts will charge you for time on those cloud systems.
+
+&nbsp;
+
+>### Note
+
+>This is a note.
+
+&nbsp;
+
+>### DDDDDDD
+
+>This is a note.
+
 ***Images*** (all images are stored on GitHub, URLs are rewritten to absolute)
 
 Format: `![Alt Text](url)`
