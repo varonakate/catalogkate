@@ -81,7 +81,6 @@ Format: `![Alt Text](url)`
 
   **Example:** 
 ![Image](https://octodex.github.com/images/yaktocat.png)
-![Example](/img/cq5dam.thumbnail.319.319.png)
 ![Example](http://www.kinomania.ru/images/posters/154766.jpg)
 
 
