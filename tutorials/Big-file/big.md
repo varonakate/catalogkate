@@ -29,12 +29,6 @@ Next steps is option, hence, may not be present.
 
 >This is a note.
 
-&nbsp;
-
->### DDDDDDD
-
->This is a note.
-
 ## Details
 
 ### You will learn  
