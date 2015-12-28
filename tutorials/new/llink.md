@@ -10,3 +10,17 @@ tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
 * [Title](title.md)
 
 bbbbbbb kkkkkkk
+
+>## Warning
+>This is a Warning.
+
+&nbsp;
+
+># Caution
+>This is a Caution.
+
+&nbsp;
+
+>Note
+
+>This is a note.
