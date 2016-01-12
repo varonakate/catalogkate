@@ -2,7 +2,7 @@
 layout: tutorial
 title: HANA 101 - Getting Started, and connecting the Web Workbench
 description: Access your first data in a native HANA Application.
-tags: [tutorial: 73554900100700000996, 67838200100800004076, tutorial:technology/sql, 67837800100800004901, tutorial:product/hana_studio]
+tags: [tutorial: fg73554900100700000996, fg67838200100800004076, fg67837800100800004901, tutorial:product/hana_studio]
 ---
 ## Prerequisites  
 [How to create an SAP HANA Developer Edition in the Cloud](http://go-qa.sap.com/developer/tutorials/setup-hana-for-cloud.html)
