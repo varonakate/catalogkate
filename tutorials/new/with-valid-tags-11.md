@@ -8,3 +8,4 @@ with valid tags 11
 update
 15 update
 16 update
+delete
