@@ -90,7 +90,8 @@ Format: `![Alt Text](url)`
 
 ***Code blocks:***
 
-```<script>
+```
+   <script>
       alert('ddd');
    </script>
 ```
