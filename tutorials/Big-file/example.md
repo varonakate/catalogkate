@@ -91,6 +91,7 @@ Format: `![Alt Text](url)`
 ***Code blocks:***
 
 ```ruby
+ !@#$%^&*&*(*(()_++|"}?><>??*&^%#!~~~~@33123-090=|"]?>{}|\\
   require 'redcarpet'
   markdown = Redcarpet.new("Hello World!")
   puts markdown.to_html
