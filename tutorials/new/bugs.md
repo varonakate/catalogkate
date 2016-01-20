@@ -9,7 +9,7 @@ tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
 >Both the Amazon AWS and Microsoft Azure accounts will charge you for time on those cloud systems.
 
 > >### Warning
-
+# 1
 > >If you want to create a free developer account - with no cloud VM charges - on the HANA Cloud Platform, do not follow this tutorial.  Click here to sign up for the account, and then proceed to the next tutorial.
 
 &nbsp;
@@ -18,7 +18,7 @@ tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
 > hhhhhhhhhhhhhhhhhh
 
 &nbsp;
-
+# 1
 > new
 >> quote1
 
@@ -35,7 +35,7 @@ First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
-
+# 1
 1
 2
 3
