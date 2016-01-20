@@ -19,7 +19,7 @@ tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
 
 &nbsp;
 
-> # new
+> new
 >> quote1
 
 - # new
