@@ -20,7 +20,7 @@ tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
 > hhhhhhhhhhhhhhhhhh
 
 &nbsp;
-# 1
+#1
 > new
 >> quote1
 
@@ -37,7 +37,7 @@ First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
-# 1
+#1
 1
 2
 3
