@@ -90,6 +90,11 @@ Format: `![Alt Text](url)`
 
 ***Code blocks:***
 
+```<script>
+      alert('ddd');
+   </script>
+```
+
   **Example:** 
 ```javascript
 function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
