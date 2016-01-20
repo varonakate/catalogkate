@@ -90,10 +90,10 @@ Format: `![Alt Text](url)`
 
 ***Code blocks:***
 
-```javascript
-   <script>
-      alert('ddd');
-   </script>
+```ruby
+  require 'redcarpet'
+  markdown = Redcarpet.new("Hello World!")
+  puts markdown.to_html
 ```
 
   **Example:** 
