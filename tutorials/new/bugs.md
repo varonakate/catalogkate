@@ -22,7 +22,7 @@ tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
 > new
 >> quote1
 
-- # new
+- new
  - one
  - two
 
