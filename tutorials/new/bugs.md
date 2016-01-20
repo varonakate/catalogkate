@@ -27,8 +27,8 @@ tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
  - two
 
 ```javascript
-
-
+ 
+ 
 ```
 
 First Header | Second Header
