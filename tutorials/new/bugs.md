@@ -5,7 +5,7 @@ tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
 ---
 
 ```ruby
-
+uhiuyiuhiujh
 ```
 
 ## Bugs 12
