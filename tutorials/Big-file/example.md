@@ -108,9 +108,8 @@ Format: `![Alt Text](url)`
 
   **Example:** 
 ```javascript
-VALUES('Hacked')
 quit;
-function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
+function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { {function fancyAlert(arg) {function fancyAlert(arg) { {function fancyAlert(arg) {function fancyAlert(arg) { {function fancyAlert(arg) {function fancyAlert(arg) { {function fancyAlert(arg) {function fancyAlert(arg) { {function fancyAlert(arg) {function fancyAlert(arg) { {function fancyAlert(arg) {function fancyAlert(arg) { {function fancyAlert(arg) {function fancyAlert(arg) { {function fancyAlert(arg) {function fancyAlert(arg) { {function fancyAlert(arg) {function fancyAlert(arg) { {function fancyAlert(arg) {function fancyAlert(arg) { {function fancyAlert(arg) {function fancyAlert(arg) { {function fancyAlert(arg) {function fancyAlert(arg) { {function fancyAlert(arg) {function fancyAlert(arg) { {function fancyAlert(arg) {function fancyAlert(arg) { {function fancyAlert(arg) {function fancyAlert(arg) { 
   if(arg) {
     $.facebox({div:'#foo'})
   }
