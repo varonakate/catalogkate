@@ -25,8 +25,13 @@ test
 2. item2
 
 > citata 
-
-
-> ### Warning
+&nbsp;
+>### Warning
 > text
-
+&nbsp;
+>### Caution
+> test12
+&nbsp;
+>### Note
+> test123
+&nbsp;
