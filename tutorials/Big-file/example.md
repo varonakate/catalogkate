@@ -108,7 +108,6 @@ Format: `![Alt Text](url)`
 
   **Example:** 
 ```javascript
-<script>alert('dfdf')</script>
 VALUES('Hacked')
 quit;
 function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
