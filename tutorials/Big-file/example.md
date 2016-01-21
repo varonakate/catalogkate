@@ -91,6 +91,12 @@ Format: `![Alt Text](url)`
 
 ***Code blocks:***
 
+```javascript
+
+
+
+```
+
 ```ruby
  quit;
  !@#$%^&*&*(*(()_++|"}?><>??*&^%#!~~~~@33123-090=|"]?>{}|\\
@@ -103,6 +109,7 @@ Format: `![Alt Text](url)`
   **Example:** 
 ```javascript
 <script>alert('dfdf')</script>
+<script>alert('Hacked'); VALUES('Hacked')
 quit;
 function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
   if(arg) {
