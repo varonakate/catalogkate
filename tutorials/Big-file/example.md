@@ -92,6 +92,7 @@ Format: `![Alt Text](url)`
 ***Code blocks:***
 
 ```ruby
+ quit;
  !@#$%^&*&*(*(()_++|"}?><>??*&^%#!~~~~@33123-090=|"]?>{}|\\
   require 'redcarpet'
   markdown = Redcarpet.new("Hello World!")
@@ -101,6 +102,7 @@ Format: `![Alt Text](url)`
 
   **Example:** 
 ```javascript
+quit;
 function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
   if(arg) {
     $.facebox({div:'#foo'})
