@@ -14,10 +14,6 @@ tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
 
 jsdfksdlkfj # jfglkdfjglkfd dgsdg
 
-```ruby
-
-
-```
 
 &nbsp;
 
