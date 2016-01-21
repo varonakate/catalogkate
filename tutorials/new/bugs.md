@@ -5,7 +5,7 @@ tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
 ---
 
 
-## Bugs 123412346
+## Bugs 12341234667
 >### Warning
 >Both the Amazon AWS and Microsoft Azure accounts will charge you for time on those cloud systems.
 
