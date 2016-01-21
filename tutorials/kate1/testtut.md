@@ -20,7 +20,26 @@ test
 ```
 
 ``` javascript
-test
+<script>
+function changeImage()
+{
+element=document.getElementById('myimage')
+if (element.src.match("bulbon"))
+  {
+  element.src="images/star.phg";
+  }
+else
+  {
+  element.src="images/star-bath.png";
+  }
+}
+</script>
+ 
+ 
+<p>Нажмите на звезду, и цвет изменится</p>
+ 
+<img id="myimage" onclick="changeImage()"
+src="images/star.png" width="256" height="256">
 ```
 
 1. item1
