@@ -10,12 +10,7 @@ tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
 >Both the Amazon AWS and Microsoft Azure accounts will charge you for time on those cloud systems.
 
 ```ruby
- quit;
- !@#$%^&*&*(*(()_++|"}?><>??*&^%#!~~~~@33123-090=|"]?>{}|\\
-  require 'redcarpet'
-  markdown = Redcarpet.new("Hello World!")
-  puts markdown.to_html
-  exit;
+
 ```
 
 > >### Warning
