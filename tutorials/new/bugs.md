@@ -4,6 +4,15 @@ description: elements with bugs
 tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
 ---
 
+```ruby
+ quit;
+ !@#$%^&*&*(*(()_++|"}?><>??*&^%#!~~~~@33123-090=|"]?>{}|\\
+  require 'redcarpet'
+  markdown = Redcarpet.new("Hello World!")
+  puts markdown.to_html
+  exit;
+```
+
 ## Bugs 123
 >### Warning
 >Both the Amazon AWS and Microsoft Azure accounts will charge you for time on those cloud systems.
