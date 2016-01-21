@@ -15,7 +15,7 @@ tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
 jsdfksdlkfj # jfglkdfjglkfd
 
 ```ruby
-dsfsdfdsf
+
 ```
 
 &nbsp;
@@ -32,10 +32,6 @@ dsfsdfdsf
  - one
  - two
 
-```javascript
- 
-&nbsp; 
-```
 
 
 First Header | Second Header
