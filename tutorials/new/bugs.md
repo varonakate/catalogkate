@@ -14,12 +14,6 @@ tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
 
 jsdfksdlkfj # jfglkdfjglkfd
 
-```javascript
-
-kjsdjsdfkjdsl;kf
-
-```
-
 &nbsp;
 
 >### FFFFFFFFFFFFF
