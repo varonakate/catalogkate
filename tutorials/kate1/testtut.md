@@ -50,8 +50,8 @@ test
 ***Text1***
 
 colonka1|colonka2
---------|--------
-123:|456
+--------:|:--------
+123 |456
 
 ![alttext] (http://mirgif.com/KARTINKI/kosmos/kosmos-42.jpg)
 
